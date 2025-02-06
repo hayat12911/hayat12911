@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hayat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hayat12911&label=Profile%20views&color=0e75b6&style=flat" alt="hayat12911" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **NLP**
 
-- 🌱 I’m currently learning **Api integration**
+- 🌱 I’m currently learning **Api integration and Bootstrapping in machine learning**
 
 - 👯 I’m looking to collaborate on **Natural language processing**
 
